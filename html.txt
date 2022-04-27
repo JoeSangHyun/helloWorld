@@ -1,0 +1,1 @@
+git config --global core.editor 'C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\Code.exe --wait
